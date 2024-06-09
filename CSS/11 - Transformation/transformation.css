@@ -1,0 +1,33 @@
+#box1{
+    border-style: solid;
+    border-color: black;
+    width: 250px;
+    height: 250px;
+    background-color: pink;
+    font-size: 225px;
+    text-align: center;
+
+    /*
+    transform: translateX(150px); 
+    transform: translateY(150px);   (Pushes away the element to the enterted no of pixels)
+    transform: translate(50px, 50px);
+    */
+    /*   
+    transform: rotateX(180deg);
+    transform: rotateY(180deg);     (Rotates the element)
+    transform: rotate(90deg, 90deg);
+    */
+    /*  
+    transform: scaleX();
+    transform: scaleY();            (Scales the element by X times)
+    transform: scale(3,3);
+    */
+    /*
+    transform: skewX(45deg);
+    transform: skewY(45deg);        (Diagonally streches the element)               
+    transform: skew();
+    */
+    /*
+    transform: matrix(0,0,0,0,0,0)  (I have no idea of this)
+    */
+}

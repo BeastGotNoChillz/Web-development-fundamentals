@@ -1,0 +1,14 @@
+body{
+    background-color:black;
+}
+h1{
+    color:lime;
+}
+p{
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:32px;
+    font-style:italic;
+    font-weight:bold;
+    text-decoration: lime dotted underline;
+}
