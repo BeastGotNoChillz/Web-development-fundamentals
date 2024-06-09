@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+    font-family: Verdana;
+    font-size: 2em;
+}
+#submitbtn{
+    cursor: pointer;
+    font-size: 1em;
+}
